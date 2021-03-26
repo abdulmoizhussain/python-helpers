@@ -3,7 +3,7 @@ from PIL import Image
 import sys
 import numpy as np
 
-# help source : https://stackoverflow.com/a/3169874
+# help source : https://stackoverflow.com/a/765829
 
 target_color = (237, 28, 36, 255) # RGBA
 
